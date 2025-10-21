@@ -1,0 +1,5 @@
+.git
+
+!.*
+
+# Ignore .git, but allow all other files starting with .
